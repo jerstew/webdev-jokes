@@ -25,4 +25,7 @@ Q: Why does no one like jokes about descriptions, keywords, or character encodin
 A: They’re too ‘meta’.
 
 Q: Why was the iOS developer always so sleepy?
-A: She never had any Java!
+A: She wasn’t given any Java.
+
+Q: How can you tell that a web developer is working?
+A: You can hear him Grunting!
