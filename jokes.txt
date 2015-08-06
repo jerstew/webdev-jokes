@@ -1,0 +1,28 @@
+Q: Why did the web designer drown?
+A: She didn’t know if she should float:left or float:right.
+
+Q: Why was the web developer fired from his job?
+A: He was getting too Sassy.
+
+Q: Why was the web developer fired from her job?
+A: She did Less every day.
+
+Q: What did the southern web developer say when he found out his team stopped using version control?
+A: Y’all better Git!
+
+Q: Why did the developer stay home from work?
+A: She had a code!
+
+Q: How did the scrawny web developer put on some muscle?
+A: He started using flexbox (with float fallbacks for older versions of IE).
+
+Q: Why was the JavaScript reality show cancelled after only one episode?
+A: People thought it seemed scripted.
+
+A junior developer panicked when he realized he didn’t know how to initiate a secure shell session to a remote machine. As he became more upset and his voice grew louder, his boss — the senior developer — took notice and tried to quiet him down. With his finger pressed to the young developers lips, the senior developer calmly whispered, “SSH.
+
+Q: Why does no one like jokes about descriptions, keywords, or character encodings?
+A: They’re too ‘meta’.
+
+Q: Why was the iOS developer always so sleepy?
+A: She never had any Java!
