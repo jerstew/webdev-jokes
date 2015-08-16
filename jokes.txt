@@ -29,3 +29,6 @@ A: She wasn’t given any Java.
 
 Q: How can you tell that a web developer is working?
 A: You can hear him Grunting!
+
+Q: Why don't web developers get along with others?
+A: They're too MEAN.
