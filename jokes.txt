@@ -32,6 +32,7 @@ A: You can hear him Grunting!
 
 Q: Why don't web developers get along with others?
 A: They're too MEAN.
+— sharon-lin
 
 Q: Why did the IP cross the subnet?
 A: Because the NAT said to!
@@ -44,3 +45,21 @@ A: Because it wouldn’t be getting the inheritance!
 
 Q: Why did the class attend the gay pride parade?
 A: It supported polymorphism.
+
+What was the web developer arrested for? He consumed too much Java and started Flashing everything and everyone. Not only that, when he was arrested, he insulted the police, yelling “What the HTML!” They just read him the standard PHP script, arrayed him, and pushed him into a cell. He popped up later in court where the judge emptied his stack.
+— Tracy Kolenchuk
+
+Q: How does JavaScript call its mommy?
+A: ecMA
+— ananda seelan
+
+Q: What’s the joking equivalent to flat design?
+A: Flat humor!
+— tirili
+
+Q: Why did the web designer storm out of the restaurant?
+A: She was offended by the table layout.
+— Eric Meyer
+
+Some people, when confronted with a problem, think, “I know, I’ll use mod_rewrite.” Now they have 500 problems.
+— Eric Meyer
