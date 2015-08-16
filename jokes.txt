@@ -32,3 +32,15 @@ A: You can hear him Grunting!
 
 Q: Why don't web developers get along with others?
 A: They're too MEAN.
+
+Q: Why did the IP cross the subnet?
+A: Because the NAT said to!
+
+Q: Why couldn’t the variable enter the JavaScript store?
+A: It was (Closured())!
+
+Q: Why was the class upset that its parent died?
+A: Because it wouldn’t be getting the inheritance!
+
+Q: Why did the class attend the gay pride parade?
+A: It supported polymorphism.
