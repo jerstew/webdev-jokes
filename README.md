@@ -1,5 +1,5 @@
 # webdev-jokes
-A small but growing collection of web development jokes by [@jerstew](http://jerstew.com).
+A small but growing collection of web development jokes.
 
 **Open to contributions!** Simply submit a pull request.
 
