@@ -34,6 +34,9 @@ Q: Why don't web developers get along with others?
 A: They're too MEAN.
 — sharon-lin
 
+Q: Why do RESTful developers smell?
+A: Because they don't use SOAP.
+
 Q: Why did the IP cross the subnet?
 A: Because the NAT said to!
 
